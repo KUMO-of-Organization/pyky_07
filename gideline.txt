@@ -1,8 +1,7 @@
-自分step1.git clone https://github.com/KUMO-of-Organization/pyky_07.git
-自分step2.encrypt512.pyの実行。
-自分step3.cipher512.txtを送る。
-相手step4.decrypt512.pyの実行。
-相手step5.secret2を電話で確認。
-自分step6.shared_secret512.txtを確認。
+自分step1.encrypt512.pyの実行。
+自分step2.cipher512.txtを送る。
+相手step3.decrypt512.pyの実行。
+相手step4.secret2を電話で確認。
+自分step5.shared_secret512.txtを確認。
 
 *自分の秘密鍵と公開鍵を作る場合はkey_gen512.pyを実行してください。
